@@ -1,0 +1,16 @@
+#footer {
+	overflow: hidden;
+	color: #rrr;
+	height: 150px;
+}
+
+.footerWidget {
+	margin-top: 80px;
+	text-align: right;
+}
+
+.copyright {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 21px;
+}
